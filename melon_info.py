@@ -29,5 +29,4 @@ def print_melon_attribute(melons):
         for attribute, value in melons.values():
             print('{} : {}'.format(attribute, value)
 
-
 print_melon_attribute(melons)
